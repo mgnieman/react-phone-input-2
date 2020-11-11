@@ -1261,6 +1261,12 @@ const rawCountries = [
     '688'
   ],
   [
+    'U.S. Virgin Islands',
+    ['america', 'carribean'],
+    'vi',
+    '1340'
+  ],
+  [
     'Uganda',
     ['africa'],
     'ug',
